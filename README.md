@@ -10,4 +10,6 @@
 
 另作为新闻媒体，应有核实名单真实性的义务。凤凰网这样趁热点，有些不厚道。
 
+附：讨论：https://github.com/langhua9527/BlackheartedHospital/issues/32
+
 2016-5-3 15:27
